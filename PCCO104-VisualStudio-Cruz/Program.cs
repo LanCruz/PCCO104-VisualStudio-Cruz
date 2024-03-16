@@ -6,7 +6,7 @@
             Console.WriteLine("Hello, World!");
 
 
-            string[] names = {"YEYEYE", "NONONO"};
+            string[] names = {"YEYEYE", "NONONO", "LAN"};
             foreach(var name in names)
             {
                 Console.WriteLine($"{name}");
